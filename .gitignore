@@ -1,0 +1,11 @@
+# .gitignore for Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+.DS_Store
+screenshots/
