@@ -1,4 +1,4 @@
-# Hand Tracking Pro 🖐️
+# Finger Sense 🖐️
 
 A real-time hand tracking, finger counting, and gesture recognition application built with Python, OpenCV, and MediaPipe (via cvzone).
 
